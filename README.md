@@ -3,7 +3,7 @@ Hi there!　I'm **Akihi** from Japn.
 I am a student who wants to become a Web3 developer.
 
 ### My Skiils
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,js,ts,nodejs,react,nextjs,tailwind,solidity,rust,vscode,docker,github,mastodon" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=dart,flutter,firebase,vscode,github" />
 
 <p align="left">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akihi-sumi&layout=compact&show_icons=true" />
